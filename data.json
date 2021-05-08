@@ -1,0 +1,13 @@
+{
+  "instructors": [
+    {
+      "id": "1",
+      "name": "Caio Christhian Lopes Silva",
+      "avatar": "https://source.unsplash.com/collection/3465564/500x500",
+      "birth": 1023753600000,
+      "gender": "M",
+      "services": "Crossfit, Musculação",
+      "created_at": 1620244682447
+    }
+  ]
+}
